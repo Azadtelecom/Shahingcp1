@@ -16,7 +16,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/mountain"
+          "path": "/Sahin"
         }
       }
     }
@@ -27,7 +27,7 @@
       "settings": {
         "servers": [
           {
-            "address": "s10.ettunel5g.xyz", 
+            "address": "gcp.injoyvipvpn.xyz", 
             "port": 9720
           }
         ]
